@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.paragraph {
+    background-color: rgb(250, 150, 167);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#number2 {
+    color: #0404f1;
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgb(100, 242, 100);
+    font-size: 36px;
+    font-weight: bold;
+}
